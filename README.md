@@ -76,4 +76,4 @@ tk.Button(root, text="Encrypt Message", command=encrypt_message, bg="#00ADB5", f
 tk.Button(root, text="Decrypt Message", command=decrypt_message, bg="#00ADB5", fg="#EEEEEE", font=("Arial", 12, "bold"), padx=10, pady=5).pack()
 
 root.mainloop()
-s
+
